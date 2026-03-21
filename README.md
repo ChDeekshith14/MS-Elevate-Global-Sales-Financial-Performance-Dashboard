@@ -72,10 +72,10 @@ Topics covered during the program:
 
 ## 🚀 Getting Started
 
-1. Clone or download this repository
-2. Open `Sales_Dashboard_Report` in **Power BI Desktop**
-3. If prompted, reconnect the data source to `Finance_Report_Copy.xlsx`
-4. Explore the dashboard using the built-in slicers and filters
+- Clone or download this repository
+- Open `Sales_Dashboard_Report` in **Power BI Desktop**
+- If prompted, reconnect the data source to `Finance_Report_Copy.xlsx`
+- Explore the dashboard using the built-in slicers and filters
 
 > **Note:** Power BI Desktop is free to download from [Microsoft's official site](https://powerbi.microsoft.com/desktop/).
 
